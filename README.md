@@ -1,2 +1,2 @@
 # Tourist
-Need to install NPM while Running
+Need to install NPM Pakages while Running
